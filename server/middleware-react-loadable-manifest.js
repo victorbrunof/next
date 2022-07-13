@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"dashboard.tsx -> react-apexcharts":{id:7229,files:["static/chunks/6c44d60f.c3f9a32a9ff62cd6.js","static/chunks/229.00221b2cbf30e3fa.js"]}};
